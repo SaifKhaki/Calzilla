@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Zya+PTRHFCP6weTdT1EXxg==
+SHA1-Digest: YEXHlebzoJ4Kq1lMFZA5xwm4/m0=
+
+Name: icons/kalkulator16_icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e5TF9aHa7gnfEGFawOXbzQ==
+SHA1-Digest: VrlQ1aHSsrIsN8xF1S1cHYUaCRk=
+
+Name: icons/kalkulator24_icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UI0m39fuXVALFJGNLul3Tg==
+SHA1-Digest: xjPFEySd3PvUGXZw2TfOSCoF4Cc=
+
+Name: icons/kalkulator32_icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2m/5gopUHiQ2jQvXIXx7KQ==
+SHA1-Digest: zK3E/oG5v2J5MaCaaYiZf8yJZDU=
+
+Name: icons/kalkulator48_icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NKyW/0hNgAdnNuYkwHlhoQ==
+SHA1-Digest: Yn828jKWrXLUjRQ/n7AmCys79eI=
+
+Name: icons/kalkulator64_icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y76Z5mn+7EJxgAccJ+Oabw==
+SHA1-Digest: hNqoaDcEdE35TcDEVCkrmtbsbtE=
+
+Name: icons/kalkulator96_icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1wwn6d7k9sBxkDqWIjQXHA==
+SHA1-Digest: NlM4RMrF1lN7DYhpdciF6opzBO0=
+
+Name: popup/kalkulator.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TM5h9V3R5ETMIPFJPZOH/A==
+SHA1-Digest: Hvoe6J5gJqdbl5MJKY4cvltoQCk=
+
+Name: popup/kalkulator.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zbvn4R1QY5gS3Moj5/wxxg==
+SHA1-Digest: JQakUZgjx+GD1EKbU2ob78dzTng=
+
+Name: popup/kalkulator.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4forUFgHi+Jf96xNuWzw3w==
+SHA1-Digest: EwALxsL6KxhNGbK4cQiPrZ+5JWc=
+

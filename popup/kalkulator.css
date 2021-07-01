@@ -1,0 +1,67 @@
+@font-face {
+	font-family: Capriola;
+	src: url(../Capriola/Capriola-Regular.ttf);
+}
+
+body {
+	background-color: #22252D !important;
+	width: 350px;
+}
+
+p, span{
+	font-family: Capriola;
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* Inset shadow on the screen to create indent */
+.top .screen {
+	font-family: Capriola;
+	height: 50px;
+	float: center;
+	font-size: 30px;
+	color: white;
+	text-align: right;
+}
+
+.keys, .top {overflow: hidden;}
+
+.copyicon{
+	position: absolute;
+	top: 10px;
+	left: 15px;
+}
+
+.keys span, .top span.clear {
+	font-family: Capriola;
+	cursor: pointer;
+	font-size: 30px;
+	color: white;
+	
+	background: #555C6B;
+	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+	border-radius: 8px;
+	
+	text-align: center;
+	/* prevent selection of text inside keys */
+	-moz-user-select:none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+}
+
+.blue{
+	color: #42CAD2 !important;	
+}
+
+.red{
+	color: #FF7575 !important;
+}
+
+.top span.clear {
+	font-family: Capriola;
+}
+
+.keys span:active {
+	box-shadow: 0px 0px #6b54d3;
+	top: 4px;
+}
